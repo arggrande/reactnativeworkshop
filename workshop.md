@@ -1,4 +1,4 @@
-React Native 101
+React Native 101 - Our first application
 ===
 
 Creating your first application
