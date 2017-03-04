@@ -24,6 +24,12 @@ Configuration
 2. **JAVA_HOME** *%PROGRAMFILES%*\Java\jdkVERSION
 3. **PATH** *%PATH%*;*%ANDROID_HOME%*\platform-tools
 
+> #### Note
+
+> If you have installed Xamarin, the SDK and JDK folders could potentially have been installed to a different location. 
+> To find these folders, in Visual Studio navigate to:
+> Tools -> Options -> Xamarin -> Android Settings
+
 Installation
 ---
 
